@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "chickennuggets:raw_chicken_nugget"
+  },
+  "result": "chickennuggets:cooked_chicken_nugget",
+  "experience": 5.0,
+  "cookingtime": 50
+}
